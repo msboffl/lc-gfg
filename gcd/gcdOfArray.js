@@ -22,3 +22,6 @@ class Solution {
 const arr = [2, 5, 6, 9, 10];
 const sol = new Solution();
 console.log(sol.gcdOfArray(arr));
+
+
+console.log([0] + arr + [0])
